@@ -6,13 +6,13 @@
     "node": ">= 0.10.x"
   },
   "dependencies": {
-    "express": "~3.1.1",
+    "express": "~5.2.1",
     "webrtc.io": "0.0.4",
     "webrtc.io-client": "0.0.2-3",
-    "hbs": "1.0.5",
-    "ws": "~0.4.25",
+    "hbs": "4.2.0",
+    "ws": "~8.19.0",
     "machina": "~0.3.4",
-    "underscore": "~1.4.4",
+    "underscore": "~1.13.8",
     "node-uuid": "~1.4.0",
     "gzippo": "~0.2.0"
   },
@@ -33,7 +33,7 @@
   ],
   "devDependencies": {
     "supertest": "~0.6.0",
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "async": "~0.1.22",
     "grunt-contrib-concat": "~0.1.2",
     "grunt-contrib-jshint": "~0.1.1",
